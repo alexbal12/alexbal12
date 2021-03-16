@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alexbal12
+- 👀 I’m interested in the world of the web development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on JavaScript
+- 📫 How to reach me alexenri12@gmail.com
